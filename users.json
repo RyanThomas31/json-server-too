@@ -1,0 +1,29 @@
+{
+    "chocolates": [
+        {
+            "id": 1,
+            "name": "KitKat",
+            "size": "XL"
+        },
+        {
+            "id": 2,
+            "name": "Tex",
+            "size": "L"
+        },
+        {
+            "id": 3,
+            "name": "BarOne",
+            "size": "S"
+        },
+        {
+            "id": 4,
+            "name": "Rolo",
+            "size": "L"
+        },
+        {
+            "id": 5,
+            "name": "Mint Crisp",
+            "size": "L"
+        }
+    ]
+}
